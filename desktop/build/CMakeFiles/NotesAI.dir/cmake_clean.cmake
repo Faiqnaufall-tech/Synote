@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/NotesAI_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/NotesAI_autogen.dir/ParseCache.txt"
+  "NotesAI_autogen"
+  "CMakeFiles/NotesAI.dir/NotesAI_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/NotesAI.dir/NotesAI_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/qrc_resources.cpp.o"
+  "CMakeFiles/NotesAI.dir/qrc_resources.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/AppWindow.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/AppWindow.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/ai/AIClient.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/ai/AIClient.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/db/Database.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/db/Database.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/main.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/main.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/settings/Keychain.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/settings/Keychain.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/settings/LoginDialog.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/settings/LoginDialog.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/settings/Settings.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/settings/Settings.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/settings/SettingsDialog.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/settings/SettingsDialog.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/sync/SyncClient.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/sync/SyncClient.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/ui/FlowLayout.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/ui/FlowLayout.cpp.o.d"
+  "CMakeFiles/NotesAI.dir/src/ui/TagChip.cpp.o"
+  "CMakeFiles/NotesAI.dir/src/ui/TagChip.cpp.o.d"
+  "NotesAI"
+  "NotesAI.pdb"
+  "NotesAI_autogen/mocs_compilation.cpp"
+  "NotesAI_autogen/timestamp"
+  "qrc_resources.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/NotesAI.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

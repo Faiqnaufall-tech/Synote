@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+3661b1d70e192953707402415d58fb0c CMakeFiles/NotesAI_autogen
+3661b1d70e192953707402415d58fb0c CMakeFiles/NotesAI_autogen_timestamp_deps
+501a4f44298202b3a6415cd5f0e6b586 NotesAI_autogen/timestamp
+b1cd54479b11b3d8335fd129a459e89c qrc_resources.cpp

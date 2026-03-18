@@ -1,0 +1,5 @@
+/home/fallsec/PROJECT/project-aplikasi-desktop/desktop/build/CMakeFiles/NotesAI.dir
+/home/fallsec/PROJECT/project-aplikasi-desktop/desktop/build/CMakeFiles/edit_cache.dir
+/home/fallsec/PROJECT/project-aplikasi-desktop/desktop/build/CMakeFiles/rebuild_cache.dir
+/home/fallsec/PROJECT/project-aplikasi-desktop/desktop/build/CMakeFiles/NotesAI_autogen_timestamp_deps.dir
+/home/fallsec/PROJECT/project-aplikasi-desktop/desktop/build/CMakeFiles/NotesAI_autogen.dir

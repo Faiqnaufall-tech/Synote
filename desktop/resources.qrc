@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/db/schema.sql</file>
+        <file>styles/app.qss</file>
+    </qresource>
+</RCC>

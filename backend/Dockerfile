@@ -4,7 +4,7 @@ WORKDIR /app
 
 # Copy module files from backend folder
 COPY backend/go.mod backend/go.sum ./
-RUN go mod download
+RUN if [ -s go.sum ]; then go mod download; else go mod tidy; fi
 
 # Copy the backend source
 COPY backend/ ./
